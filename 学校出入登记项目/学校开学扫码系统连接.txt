@@ -1,0 +1,21 @@
+管理员 账号whslzx-admin 密码whslzx@admin
+校医 账号whslzx-xy 密码947599
+门卫 账号whslzx-mw 密码947569
+学生扫码 账号whslzx-sm 密码947576
+
+
+后台管理员    http://d.hcedu.cn/adminlog/index
+
+传达室、校医、晨午晚检老师  http://d.hcedu.cn/wx/getWxUserInfoAdmin?isAdmin=1
+
+教职工和家长  http://d.hcedu.cn/wx/getWxUserInfoSchool?infoId=5学校编号
+
+
+费本地测试
+http://172.16.99.27/adminlog/login
+18963138687   020229
+
+检查点登录连接
+账号mtxx01 123456门卫账号
+三次扫码账号banzhuren 121212
+校医账号 Xiaoyi 121212
